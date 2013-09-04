@@ -1,0 +1,27 @@
+Total money made from both machines: $23.950000000000003
+
+Vending Machine 1: $23.950000000000003
+DietCoke left: 19. Sales total: 0.85
+Snickers left: 18. Sales total: 2.0
+Doritos left: 19. Sales total: 2.0
+Sunchips left: 19. Sales total: 1.5
+M&Ms left: 17. Sales total: 1.5
+Milkway left: 18. Sales total: 1.5
+Coke left: 16. Sales total: 4.0
+Sprite left: 17. Sales total: 3.0
+Fanta left: 19. Sales total: 1.5
+Mountaindew left: 19. Sales total: 1.25
+Subtotal from Vending machine 1: $19.1
+
+Vending Machine 2: $23.950000000000003
+DietCoke left: 19. Sales total: 0.85
+Snickers left: 20. Sales total: 0.0
+Doritos left: 20. Sales total: 0.0
+Sunchips left: 20. Sales total: 0.0
+M&Ms left: 19. Sales total: 0.5
+Milkway left: 19. Sales total: 0.75
+Coke left: 20. Sales total: 0.0
+Sprite left: 20. Sales total: 0.0
+Fanta left: 19. Sales total: 1.5
+Mountaindew left: 19. Sales total: 1.25
+Subtotal from Vending machine 2: $4.85
